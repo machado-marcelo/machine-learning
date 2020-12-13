@@ -1,0 +1,50 @@
+,state_name,state_code,more_covid_cases,more_covid_deaths,more_black_people,more_poverty,more_Unemployment,more_mail_votes,joe_binden_won
+0,Alabama,AL,True,True,True,True,True,False,False
+1,Arkansas,AR,True,True,True,True,True,False,False
+2,Arizona,AZ,True,True,False,True,True,False,True
+3,California,CA,True,True,False,True,True,True,True
+4,Colorado,CO,False,False,False,False,False,False,True
+5,Connecticut,CT,False,True,True,False,True,True,True
+6,Delaware,DE,True,True,True,False,True,True,True
+7,Florida,FL,True,True,True,True,True,True,False
+8,Georgia,GA,True,True,True,True,True,True,True
+9,Hawaii,HI,False,False,False,False,False,True,True
+10,Iowa,IA,True,True,False,False,False,True,False
+11,Idaho,ID,True,False,False,True,False,True,False
+12,Illinois,IL,True,True,True,False,True,False,True
+13,Indiana,IN,False,True,False,False,False,True,False
+14,Kansas,KS,True,False,False,False,False,False,False
+15,Kentucky,KY,False,False,True,True,True,False,False
+16,Louisiana,LA,True,True,True,True,True,False,False
+17,Massachusetts,MA,False,True,True,False,False,True,True
+18,Maryland,MD,True,True,True,False,True,True,True
+19,Maine,ME,False,False,False,False,False,False,True
+20,Michigan,MI,False,True,True,True,True,False,True
+21,Minnesota,MN,False,False,False,False,False,True,True
+22,Missouri,MO,False,False,True,True,False,False,False
+23,Mississippi,MS,True,True,True,True,True,False,False
+24,Montana,MT,False,False,False,True,False,False,False
+25,North Carolina,NC,True,False,True,True,True,False,False
+26,North Dakota,ND,True,False,False,False,False,True,False
+27,Nebraska,NE,True,False,False,False,False,False,False
+28,New Hampshire,NH,False,False,False,False,False,False,True
+29,New Jersey,NJ,True,True,True,False,True,False,True
+30,New Mexico,NM,False,True,False,True,True,True,True
+31,Nevada,NV,True,True,False,False,True,True,True
+32,New York,NY,True,True,True,False,True,False,True
+33,Ohio,OH,False,True,True,True,False,True,False
+34,Oklahoma,OK,True,False,True,True,False,False,False
+35,Oregon,OR,False,False,False,True,True,True,True
+36,Pennsylvania,PA,False,True,True,False,False,False,True
+37,Rhode Island,RI,True,True,False,False,False,True,True
+38,South Carolina,SC,True,True,True,True,True,False,False
+39,South Dakota,SD,True,False,False,True,False,True,False
+40,Tennessee,TN,True,False,True,True,True,False,False
+41,Texas,TX,True,True,True,True,False,False,False
+42,Utah,UT,True,False,False,False,False,True,False
+43,Virginia,VA,False,False,True,False,False,False,True
+44,Vermont,VT,False,False,False,False,False,False,True
+45,Washington,WA,False,False,False,True,True,True,True
+46,Wisconsin,WI,True,False,False,False,False,True,True
+47,West Virginia,WV,False,False,False,True,True,True,False
+48,Wyoming,WY,False,False,False,False,False,False,False
